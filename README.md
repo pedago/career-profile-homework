@@ -14,10 +14,10 @@ The career profile should include the following:
  - [ ] A “personal fact” about the user 
  - [ ] Whether the user is open to working remotely
  - [ ] A list of jobs the user has had, each with the following information:
-  - [ ] The company’s name
-  - [ ] The user’s job title
-  - [ ] The date range during which the user worked at this job
-  - [ ] A list of responsibilities that the user had at this job
+   - [ ] The company’s name
+   - [ ] The user’s job title
+   - [ ] The date range during which the user worked at this job
+   - [ ] A list of responsibilities that the user had at this job
 
 ### API
 
